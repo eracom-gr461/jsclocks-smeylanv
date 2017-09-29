@@ -16,8 +16,10 @@ Ce fichier charge les éléments suivants:
 - js/clocks.js = un endroit où mettre votre code JavaScript.
 
 ## Fonctionnement
+Les secondes sont représentées par un graphique qui se remplit pendant 1 secondes.
+La minute quand à elle est représentées par des barres penchées et a distance égale.
+L'heure est simplement affichée en désignant sont nombre.
 
-((à définir))
 
 Automne 2017  
 Eracom, Lausanne
